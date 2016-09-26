@@ -12,12 +12,13 @@ h2 {
 
 
 h1 {
+	text-align: center;
 	color: #003366;
 	font-weight: bold;
 }
 
 #classlist {
-	color: yellow;
+	font-size 16px;
 }
 
 
