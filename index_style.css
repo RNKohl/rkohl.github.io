@@ -1,0 +1,13 @@
+h1 {
+	color: blue;
+	text-align: center;
+	font-size 24;
+}
+h2 {
+	text-align: left;
+	font-size 22;
+	color: green;
+}
+body {
+	background-color: #99ff33;
+}
