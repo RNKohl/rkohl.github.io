@@ -21,7 +21,9 @@ h1 {
 	font-size 16px;
 }
 
-
+p {
+	font-size: 18px; 
+}
 ul {
 	font-size: 14px;
 	font-style: italic;	
